@@ -1,4 +1,14 @@
-android_device_alcatel_bcm21553-common
-======================================
+Alcatel bcm21553-common device source
+=====================================
 
-Alcatel bcm212553-common device files
+Currently devices supported:
+
+  * Alcatel v860
+  * Vodafone Smart II
+
+People who made this possible: (alfabetical)
+
+  * Bieltv.3
+  * Legolas93
+  * Psychogame
+  * Spacecaker
